@@ -1,0 +1,12 @@
+{
+    "name": "sikora00/data-fixtures-laravel",
+    "description": "Doctrine Data Fixtures for Laravel",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Maciej Sikorski",
+            "email": "maciejsikorski@gmail.com"
+        }
+    ],
+    "require": {}
+}
