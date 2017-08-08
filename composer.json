@@ -1,5 +1,5 @@
 {
-    "name": "sikora00/data-fixtures-laravel",
+    "name": "maciej-sikorski/data-fixtures-laravel",
     "description": "Doctrine Data Fixtures for Laravel",
     "type": "package",
     "authors": [
@@ -11,7 +11,7 @@
     "homepage": "https://github.com/Sikora00/data-fixtures-laravel",
     "repositories": [{
         "package": {
-            "name": "sikora00/data-fixtures-laravel",
+            "name": "maciej-sikorski/data-fixtures-laravel",
             "version": "0.1.0",
             "source": {
                 "url": "git@server.co.uk:Repository.git",
